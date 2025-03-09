@@ -29,7 +29,7 @@ elapsed=end-start
 # Grand Total
 print('Files:', files)
 print('Directories:', dirs)
-print('Elapsed time:',elapsed, '(sec)')
+print('Elapsed time:',int(elapsed), '(sec)')
 
 
 
