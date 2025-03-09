@@ -1,5 +1,6 @@
-
+#
 # fdc - files directory count
+#
 
 import os
 import time
